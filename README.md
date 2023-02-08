@@ -1,2 +1,2 @@
 # Portfolio-draft
-Basic html portfolio.
+Basic html portfolio workshop in webdevelopment.
